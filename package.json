@@ -1,0 +1,21 @@
+{
+  "name": "tradingimages",
+  "version": "0.0.1",
+  "description": "Capture Trading Images from TradingView",
+  "main": "screenshot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TradingView",
+    "Screenshot",
+    "Puppeteer"
+  ],
+  "author": "ThinkCode, LLC",
+  "license": "ISC",
+  "dependencies": {
+    "azure-storage": "^2.10.2",
+    "dotenv": "^6.2.0",
+    "puppeteer": "^1.11.0"
+  }
+}
